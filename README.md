@@ -6,7 +6,7 @@ Invoke-DOSfuscation v1.0
 Introduction
 ------------
 Invoke-DOSfuscation is a PowerShell v2.0+ compatible cmd.exe command
-obfuscation framework.
+obfuscation framework. (White paper: [https://www.fireeye.com/blog/threat-research/2018/03/dosfuscation-exploring-obfuscation-and-detection-techniques.html](https://www.fireeye.com/blog/threat-research/2018/03/dosfuscation-exploring-obfuscation-and-detection-techniques.html))
 
 Background
 ----------
